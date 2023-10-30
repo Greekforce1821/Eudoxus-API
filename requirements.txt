@@ -4,10 +4,12 @@ tk==0.1.0
 os-sys==2.1.4 
 crypto==1.4.1 
 lib-platform==1.2.7
-requests==2.27.1 
+requests==2.31.0 
 Pillow==9.3.0
 secure-smtplib==0.1.1 
 getpass4==0.0.14.1 
 email-to==0.1.0 
-Django==4.0.10
 cryptography==41.0.4
+Django==4.1.9
+
+
